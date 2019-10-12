@@ -4,7 +4,7 @@
 /dashboard/node_modules
 /dashboard/.pnp
 /dashboard/.pnp.js
-/nodeapp/node_modules
+/c2-status/node_modules
 
 # testing
 /dashboard/coverage
@@ -23,44 +23,44 @@
 /dashboard/yarn-debug.log*
 /dashboard/yarn-error.log*
 
-/nodeapp/lib-cov
-/nodeapp/*.seed
-/nodeapp/*.log
-/nodeapp/*.csv
-/nodeapp/*.dat
-/nodeapp/*.out
-/nodeapp/*.pid
-/nodeapp/*.gz
-/nodeapp/*.swp
+/c2-status/lib-cov
+/c2-status/*.seed
+/c2-status/*.log
+/c2-status/*.csv
+/c2-status/*.dat
+/c2-status/*.out
+/c2-status/*.pid
+/c2-status/*.gz
+/c2-status/*.swp
 
-/nodeapp/pids
-/nodeapp/logs
-/nodeapp/results
-/nodeapp/tmp
+/c2-status/pids
+/c2-status/logs
+/c2-status/results
+/c2-status/tmp
 
 # Build
-/nodeapp/public/css/main.css
+/c2-status/public/css/main.css
 
 # Coverage reports
-/nodeapp/coverage
+/c2-status/coverage
 
 # API keys and secrets
-/nodeapp/.env
+/c2-status/.env
 
-/nodeapp/# Dependency directory
-/nodeapp/node_modules
-/nodeapp/bower_components
+/c2-status/# Dependency directory
+/c2-status/node_modules
+/c2-status/bower_components
 
 # Editors
-/nodeapp/.idea
-/nodeapp/*.iml
+/c2-status/.idea
+/c2-status/*.iml
 
 # OS metadata
-/nodeapp/.DS_Store
-/nodeapp/Thumbs.db
+/c2-status/.DS_Store
+/c2-status/Thumbs.db
 
 # Ignore built ts files
-/nodeapp/dist/**/*
+/c2-status/dist/**/*
 
 # ignore yarn.lock
-/nodeapp/yarn.lock
+/c2-status/yarn.lock

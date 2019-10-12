@@ -1,0 +1,29 @@
+[
+    {
+        "Key":"master/state.json"
+        ,"LastModified":"2019-09-10T01:28:39.000Z"
+        ,"ETag":"\"e81bbf58864ae54df59a58b577812da9\""
+        ,"Size":116
+        ,"StorageClass":"STANDARD"}
+    ,
+    {
+        "Key":"releases/test1.zip"
+        ,"LastModified":"2019-08-02T05:21:16.000Z"
+        ,"ETag":"\"fdafbafc39a3e64a6e163202309d7f9f\""
+        ,"Size":2353229
+        ,"StorageClass":"STANDARD"}
+    ,
+    {
+        "Key":"slaves/myserver/state.json"
+        ,"LastModified":"2019-09-10T01:29:15.000Z"
+        ,"ETag":"\"7615872a1836a3e3be732688c6498ea9\""
+        ,"Size":197
+        ,"StorageClass":"STANDARD"}
+    ,
+    {
+        "Key":"slaves/myslave/state.json"
+        ,"LastModified":"2019-09-09T03:55:59.000Z"
+        ,"ETag":"\"3cfc2f2bfb8d2772c67b4b16ff28432a\""
+        ,"Size":177
+        ,"StorageClass":"STANDARD"}
+]
